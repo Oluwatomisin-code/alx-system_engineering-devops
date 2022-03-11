@@ -1,4 +1,2 @@
 #!/bin/bash
-local_variable_function (){
-	local BEST = 'School'
-}
+local BEST = 'School'
